@@ -39,7 +39,7 @@ The models were able to effectively classify spam emails with high accuracy. The
 ## **How to Run the Project**
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Email-Spam-Detection.git
+   git clone https://github.com/rohithvarma73/Email-Spam-Detection.git
    ```
 2. Install required dependencies:
    ```bash
